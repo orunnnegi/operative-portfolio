@@ -29,3 +29,16 @@ If you're ready to deploy this **tactical portfolio**, follow the battle-tested 
 ```sh
 git clone https://github.com/orunnnegi/cod-theme-portfolio-72588b02.git
 cd cod-theme-portfolio-72588b02
+```
+---
+
+##  Words to Live By
+"The only easy day was yesterday." – Call of Duty: Modern Warfare 2
+
+"History is written by the victor." – Call of Duty: Black Ops
+
+"There’s a fine line between right and wrong. And somewhere, in the shadows… they send us in to find it." – Call of Duty: Modern Warfare
+
+"No sacrifice, no victory." – Call of Duty: WW2
+
+"We fight not because we hate what’s in front of us, but because we love what’s behind us." – Call of Duty: Modern Warfare
