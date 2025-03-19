@@ -1,69 +1,31 @@
-# Welcome to your Lovable project
+# 🎯 Operative Portfolio
 
-## Project info
+## 📝 Mission Briefing
+Elite software developer specializing in **high-performance, scalable, and mission-critical applications**. Equipped with **cutting-edge technologies**, I deploy robust solutions in high-pressure environments, ensuring precision and efficiency.
 
-**URL**: https://lovable.dev/projects/b0a97805-8282-4f41-9e73-252a60c05b6f
+---
 
-## How can I edit this code?
+## 🛠️ Field Equipment (Tech Stack)
+- **Frontline Frameworks:** React, Next.js, TypeScript  
+- **Tactical UI Systems:** Tailwind CSS, ShadCN-UI  
+- **Data Intel:** MongoDB, MySQL  
+- **Covert Operations:** Web Security, API Development, Authentication  
+- **Deployment Protocols:** Vercel, Firebase, AWS  
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## 🎖️ Completed Missions
+- **🛡️ Vamika (Women Safety App)** – Advanced real-time tracking and AI-powered security features for emergency response.  
+- **🧠 MindGuard (Mental Health System)** – AI-driven mental health analytics with predictive insights.  
+- **📸 Liveliness Detection System** – Identity verification using real-time face detection.  
+- **🕶️ COD-Themed Portfolio** – A tactical, high-impact developer portfolio inspired by elite operations.  
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/b0a97805-8282-4f41-9e73-252a60c05b6f) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## ⚡ Mission Deployment: How to Clone & Run Locally
+If you're ready to deploy this **tactical portfolio**, follow the battle-tested instructions below:
 
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
+### 🔻 Clone the Repository
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with .
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/b0a97805-8282-4f41-9e73-252a60c05b6f) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+git clone https://github.com/orunnnegi/cod-theme-portfolio-72588b02.git
+cd cod-theme-portfolio-72588b02
